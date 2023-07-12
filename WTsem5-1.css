@@ -1,0 +1,203 @@
+.rect1
+{
+    height: 60px;
+    width: 1520px;
+    background-color: rgb(113, 172, 192);
+    position: absolute;
+}
+.image1
+{
+    position:relative;
+    left: 30px;
+    top: 15px;
+}
+.heading
+{
+    position: relative;
+    top: 10px;
+    left: 700px;
+}
+.circle1
+{
+    position: relative;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: black;
+    left: 400px;
+    top: 15px;
+}
+.circle2
+{
+    position: relative;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: black;
+    bottom: 120px;
+    left: 700px;
+}
+.circle3
+{
+    position: relative;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: black;
+    bottom: 255px;
+    left: 1000px;
+}
+.image2
+{
+    position:relative;
+    bottom: 370px;
+    left: 425px;
+}
+.image3
+{
+    position: relative;
+    bottom: 470px;
+    left: 727px;
+}
+.image4
+{
+    position: relative;
+    bottom: 555px;
+    left: 1033px;
+}
+.stationary
+{
+    position: relative;
+    bottom: 550px;
+    left: 425px;
+}
+.notes
+{
+    position: relative;
+    bottom: 589px;
+    left: 745px;
+}
+.electronics
+{
+    position: relative;
+    bottom: 630px;
+    left: 1027px;
+}
+.rect2
+{
+    height: 270px;
+    width: 500px;
+    background-color: rgb(247, 248, 248);
+    position: relative;
+    bottom: 610px;
+}
+.rect3
+{
+    height: 270px;
+    width: 500px;
+    background-color: rgb(247, 248, 248);
+    position: relative;
+    bottom: 879px;
+    left: 520px;
+}
+.rect4
+{
+    height: 270px;
+    width: 500px;
+    background-color: rgb(247, 248, 248);
+    position: relative;
+    bottom: 1150px;
+    left: 1040px;
+}
+.portfoliobag
+{
+    position: relative;
+    bottom: 1395px;
+    font-size: 23px;
+    left: 250px;
+}
+.triangularscale
+{
+    position: relative;
+    bottom: 1493px;
+    font-size: 23px;
+    left: 770px;
+}
+.draftingboard
+{
+    position: relative;
+    bottom: 1600px;
+    font-size: 23px;
+    left: 1290px;
+}
+.image5
+{
+    position: relative;
+    bottom: 1680px;
+    left: 50px;
+}
+.image6
+{
+    position: relative;
+    bottom: 1845px;
+    left: 570px;
+}
+.image7
+{
+    position: relative;
+    bottom: 1990px;
+    left: 1100px;
+}
+.buttons
+{
+    position: relative;
+    bottom: 1995px;
+    left: 255px;
+}
+.button1
+{
+    position: relative;
+    bottom: 2016px;
+    left: 770px;
+}
+.button2
+{
+    position: relative;
+    bottom: 2037px;
+    left: 1290px;
+}
+.loc
+{
+    position: relative;
+    bottom: 2589px;
+    left: 1300px;
+}
+.Search [type=text]
+{
+   padding: 10px;
+  font-size: 17px;
+  float: left;
+  width: 90%;
+  background: #f1f1f1;
+}
+.Search
+{
+float: left;
+  width: 20%;
+  padding: 10px;
+  color: white;
+  font-size: 17px;
+  border-left: none;
+  cursor: pointer;
+  bottom: 2630px;
+  left: 100px;
+  position: relative;
+}
+
+
+
+
+
